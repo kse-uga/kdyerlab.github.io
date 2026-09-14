@@ -1,1 +1,25 @@
+- text: Home
+  href: /
 
+- text: People
+  href: /people.html
+
+- text: Research
+  href: /research.html
+
+- text: Publications
+  href: /publications.html
+
+- text: More
+  menu:
+    - text: Teaching
+      href: /teaching.html
+    - text: Photos
+      href: /photos.html
+    - text: News
+      href: /news.html
+    - text: Join Us
+      href: /join.html
+
+- text: Contact
+  href: /contact.html
