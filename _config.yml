@@ -1,2 +1,21 @@
-theme: jekyll-theme-minimal
-title: Dyer Lab Website
+title: The Dyer Lab
+author: Kelly A. Dyer
+
+url: "https://kse-uga.github.io"
+baseurl: "/kdyerlab.github.io"
+
+remote_theme: peterdesmet/petridish@3.2
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+colors:
+  links: "#cc3300"
+  banner: "#663300"
+  footer: "#333300"
+
+font_serif: false
+rounded_corners: false
+posts_on_home: 0
