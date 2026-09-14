@@ -12,8 +12,8 @@ plugins:
   - jekyll-sitemap
 
 colors:
-  links: "#cc3300"
-  banner: "#663300"
+  links: "#663300"
+  banner: "#cc3300"
   footer: "#333300"
 
 font_serif: false
