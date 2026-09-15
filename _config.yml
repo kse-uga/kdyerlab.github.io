@@ -13,8 +13,8 @@ plugins:
 
 colors:
   links: "#cccc3a"
-  banner: "##cc3401"
-  footer: "##333300"
+  banner: "#cc3401"
+  footer: "#333300"
 
 font_serif: false
 rounded_corners: false
