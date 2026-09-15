@@ -8,6 +8,62 @@ Old people
 
 
 
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>William Steinmetz</h3>
+<ul>
+<li>Biology major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/halli.jpg" alt="" />
+<h3>Hallianek Escorcia</h3>
+<ul>
+<li>Genetics major, UGA Class of 2026</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Kiera Bass</h3>
+<ul>
+<li>Genetics major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Claire Cheng</h3>
+<ul>
+<li>Research Technician</li>
+<li>Genetics major, UGA Class of 2024</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
 <div class="bio">					<!--	BEGIN BIO	-->
 <img src="photos/bios/matthew.jpg" alt="" />
 <h3>Matthew Phillips</h3>
