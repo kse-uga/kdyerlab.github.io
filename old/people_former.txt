@@ -1,0 +1,1321 @@
+Old people
+
+<li><img src="photos/bios/rosie.jpg" alt=""  title="Cheryl's Rosie" /></li>
+<li><img src="photos/bios/oliver.jpg" alt="" title="Emily's Oliver" /></li>
+<li><img src="photos/bios/traveler.jpg" alt=""  title="Brooke's Traveler" /></li>  
+<li><img src="photos/bios/peabody.jpg" alt=""  title="Amanda's Mr. Peabody" /></li>  
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/matthew.jpg" alt="" />
+<h3>Matthew Phillips</h3>
+<ul>
+<li>Biology major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/hannah.jpg" alt="" />
+<h3>Hannah Lee</h3>
+<ul>
+<li>Psychology major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/theresa.jpg" alt="" />
+<h3>Theresa Erlenbach </h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2019, University of North Carolina at Charlotte</li>
+<li><a href="mailto:Theresa.Miorin@uga.edu">Theresa.Miorin@uga.edu</a></li>
+</ul>
+<p>
+Theresa is interested in evolutionary genomics, and she is currently studying X-chromosome drive in <i lang="la">D. neotestacea</i>. Theresa was a trainee on the NIH Genetics Training Grant from 2020-2022, and she has received an R.C. Lewontin Early Award from the Society for the Study of Evolution and a Bishop Award from UGA Genetics. She is currently the Alton Fellow in UGA Genetics, and is also an intern at the UGA Innovation Gateway. Theresa came to UGA from Rebekah Rogers' lab at UNC Charlotte, where she studied gene expression and structural evolution in <i lang="la">Drosophila</i>. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/gabi.jpg" alt="" />
+<h3>Gabriela Borres</h3>
+<ul>
+<li>Genetics major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/aubrey.jpg" alt="" />
+<h3>Aubrey Frey</h3>
+<ul>
+<li>Genetics major, UGA Class of 2026</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+					
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Scout Harris</h3>
+<ul>
+<li>Biology major, UGA Class of 2024</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/kiyah.jpg" alt="" />
+<h3>Kiyah Legg</h3>
+<ul>
+<li>Science Education major, UGA Class of 2024</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/charlotte.jpg" alt="" />
+<h3>Charlotte Nickell</h3>
+<ul>
+<li>Biology major, UGA Class of 2024</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Bri Trohn</h3>
+<ul>
+<li>Genetics major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/andrew.jpg" alt="" />
+<h3>Andrew Duitsman</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2018, Piedmont College</li>
+<li><a href="mailto:Andrew.Duitsman@uga.edu">Andrew.Duitsman@uga.edu</a></li>
+</ul>
+<p>
+Andrew is broadly interested in evolutionary biology. He is studying speciation and sperm competition in <i lang="la">D. recens</i> and <i lang="la">D. subquinaria</i>. In 2021 Andrew received an Outstanding Teaching Assistant Award from the UGA Center for Teaching and Learning. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Adam Bomar</h3>
+<ul>
+<li>Biology major, UGA Class of 2023</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Karoline Carruth</h3>
+<ul>
+<li>Genetics major, UGA Class of 2024</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Abigail Moore</h3>
+<ul>
+<li>Marine Sciences major, UGA Class of 2023</li>
+<li></li>
+</ul>
+<p>
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Isabell Skipper</h3>
+<ul>
+<li>Biology major, UGA Class of 2023</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>William Payne</h3>
+<ul>
+<li>Microbiology major, UGA Class of 2025</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/paul.jpg" alt="" />
+<h3>Paul Ginsberg</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2014, UC Davis</li>
+<li><a href="mailto:paul.ginsberg25@uga.edu">paul.ginsberg25@uga.edu</a></li>
+</ul>
+<p>
+Paul is interested in host-endosymbiont interactions and speciation. Paul has been working on <i lang="la">Wolbachia</i>-host interactions in <i lang="la">D. recens</i> and <i lang="la">D. subquinaria</i>, and is interested in how <i lang="la">Wolbachia</i> spreads both within host populations and to new host species. He is also studying patterns of introgression between these species. Paul came to UGA from Michael Turelli's lab at UC Davis, where he studied <i lang="la">Wolbachia</i> in the melanogaster and montium groups of <i lang="la">Drosophila</i>. At UGA Paul was a trainee on the NIH Genetics Training grant for two years. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Kelly Honkanen</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2022</li>
+<li></li>
+</ul>
+<p>
+
+</div>
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Spencer Harbin</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2023</li>
+<li></li>
+</ul>
+<p>
+
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/kevin.jpg" alt="" />
+<h3>Kevin Moore</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. 2016, University of Colorado at Boulder</li>
+</ul>
+<p>
+Kevin is interested in behavioral ecology, and has worked on a wide variety of organisms including snakes, iguanas, skinks, Tasmanian devils, beetles, grasshoppers, and bugs. He is currently learning to appreciate the awesome power of <i lang="la">Drosophila</i>. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Hannah Postma</h3>
+<ul>
+<li>Genetics Research</li>
+<li>Genetics major, UGA Class of 2021</li>
+<li></li>
+</ul>
+<p>
+Hannah is working on <i lang="la">Drosophila - Wolbachia</i> interactions. She plans to pursue a career in genetic counseling. 
+<p>
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/zach.jpg" alt="" />
+<h3>Zachary Sanchez</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S.E.S/B.S. 2019, University of Georgia</li>
+</ul>
+<p>
+As an undergraduate, Zach studied the consequences of methlylation knockdown in milkweed bugs with Trish Moore and Bob Schmitz. Zach is interested in vector-borne diseases, and he will start graduate school this fall at Vanderbilt University.
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/emily_h.jpg" alt="" />
+<h3>Emily Hall</h3>
+<ul>
+<li>Research Assistant</li>
+<li>A.B/B.S. 2020, University of Georgia</li>
+<li></li>
+</ul>
+<p>
+Emily assists with various research projects in the lab. She plans to pursue a career in environmental economics.</div>
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/sandy.jpg" alt="" />
+<h3>Sandy Hung</h3>
+<ul>
+<li>Research Assistant</li>
+<li>B.S 2019, University of Georgia</li>
+<li></li>
+</ul>
+<p>
+Sandy is working on the metabolomic profiles of toxin consumption in <i lang="la">Drosophila</i>. Sandy is also a guide puppy raiser extraordinaire.
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/maddie.jpg" alt="" />
+<h3>Madeline Snipes</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Biology major, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Maddie is investigating the interaction of <i lang="la">Wolbachia</i> with their <i lang="la">Drosophila</i> hosts. She will start medical school in Fall 2020.  </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Kelsi Tyler</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics and Psychology majors, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Kelsi assists with various research projects in the lab.  She is also conducting research in Ecology and Psychology labs, and she plans to pursue a career in research. 
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Sandy Hung</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics and Chemistry majors, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Sandy is working on the metabolomic profiles of toxin consumption in <i lang="la">Drosophila</i>. 
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Samantha Kincaid</h3>
+<ul>
+<li>Genetics Thesis</li>
+<li>Genetics major, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Samantha is studying the evolution of <i lang="la">Drosophila </i> courtship behavior. She plans to pursue a career in research. 
+<p>
+</div>
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shannon.jpg" alt="" />
+<h3>Shannon Harris</h3>
+<ul>
+<li>Genetics Thesis</li>
+<li>Genetics major, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Shannon is investigating the interaction of <i lang="la">Wolbachia</i> and their <i lang="la">Drosophila</i> hosts. She plans to pursue a career in research. 
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Sydney Hutto</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Syndey assists with various research projects in the lab.  She plans to go to medical school. 
+</div>
+					<!--	END BIO		-->
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Tommy Bui</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Biology and Psychology majors, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Tommy is investigating the interaction of <i lang="la">Wolbachia</i> and their <i lang="la">Drosophila</i> hosts. He plans to go to medical school. 
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/meagan.jpg" alt="" />
+<h3>Meagan Crumley</h3>
+<ul>
+<li>Genetics Research</li>
+<li>Genetics and Psychology majors, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Meagan is currently identifying <i lang="la">Drosophila</i> species using molecular markers. She will pursue a career in genetic counseling.  </div>
+ 
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Alden Murphy</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, UGA Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Alden assists with various research projects in the lab.</i>
+</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/ali.jpg" alt="" />
+<h3>Ali Haider</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Ali is investigating the pathogens that infect <i lang="la">Drosophila</i> and how they  interact with <i lang="la">Wolbachia</i>. 
+</div>
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Rachel Keener</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Rachel is interested in the evolution of disease, and is investigating the interaction between <i lang="la">Drosophila recens</i> and its <i lang="la">Wolbachia</i> endosymbiont. Rachel will head to graduate school in the fall.  </div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/dylan.jpg" alt="" />
+<h3>Dylan Ricke</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. 2016, New College of Florida</li>
+</ul>
+<p>
+After graduating from New College, Dylan worked as an entomology intern for a year at Archibald Biological Station in Florida.  In his spare time Dylan completes epic thru hikes: he's hiked the Appalachian Trial, and plans to hike the Pacific Crest Trail before he starts grad school next year.  
+
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/quinn.jpg" alt="" />
+<h3>Quinn Roe</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Quinn is assisting with various research projects in the lab. He previously studied <i lang="la">Drosophila </i> neurobiology in Ping Shen's lab at UGA. Quinn hopes to go to medical school after he graduates this fall. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Dominic Rudic</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Dominic assists with various research projects in the lab. </div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/nick.jpg" alt="" />
+<h3>Nick Arthur</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2012, UC Santa Barbara</li>
+<li><a href="mailto:narthur@uga.edu">narthur@uga.edu</a></li>
+</ul>
+<p>
+Nick is interested in sexual and natural selection in <i lang="la">Drosophila</i>. He studied reproductive isolation in <i lang="la">D. suboccidentalis</i>, and he is currently working on the evolution of mate discrimination in <i lang="la">D. subquinaria</i> using an experimental evolution approach. Nick was a trainee on the NIH Genetics training grant for two years, and he has received the Mary Case Award for Excellence in Teaching as well as the Bishop Award from the UGA Genetics Department. Nick came to UGA from Bill Rice's lab at UCSB, where he studied zygotic drive in <i lang="la">D. melanogaster</i>. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Kailene Richbow Dozier</h3>
+<ul>
+<li><a href=http://reu.ecology.uga.edu/>NSF REU in the Population Biology of Infectious Diseases</a> </li>
+<li>Virginia Union University, Biology major, Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Kailene is a summer REU student and is working on <i lang="la">Wolbachia</i>-host interactions in <i lang="la">Drosophila</i>. </div>
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/dominique.jpg" alt="" />
+<h3>Dominique Rivers</h3>
+<ul>
+<li><a href=https://www.genetics.uga.edu/fungal-genomics-and-computational-biology> NSF REU in Fungal Genomics and Computational Biology</a></li>
+<li>Agnes Scott College, Neuroscience major, Class of 2020</li>
+<li></li>
+</ul>
+<p>
+Dominique is a summer REU student and is working on chemosensory evolution in <i lang="la">Drosophila</i>. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/amanda.jpg" alt="" />
+<h3>Amanda Shaver</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2011, University of Kansas </li>
+<li><a href="mailto:amanda.shaver@uga.edu">amanda.shaver@uga.edu</a></li>
+</ul>
+<p>
+Amanda is interested in evolutionary and ecological genetics, and she is currently working on the evolution of body size polymorphism in <i lang="la">D. subquinaria</i>. She has  received a Hightower Award from the UGA Department of Genetics and an Honorable Mention for an NSF GRFP. Amanda contributed to a variety of projects before joining our lab, including developing next-gen sequencing protocols from non-invasive DNA samples, the evolution of host-endosymbiont interactions in <i lang="la">Drosophila neotestacea</i>, and the phylogenetics and biodiversity of marine invertebrates.    
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Kelsey Martin</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Psychology and Biology majors, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Kelsey is working host-endosymbiont interactions in <i lang="la">Drosophila recens</i>, in particular the evolution of cytoplasmic incompatibility caused by <i lang="la">Wolbachia</i>. Kelsey hopes to go to medical school. </div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/sophie.jpg" alt="" />
+<h3>Sophie Barton</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Psychology major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Sophie is interested in animal behavior and neuroscience. She is working on the evolution of tactile cues in Drosophila mating. </div>
+					<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Taylor McClinchey </h3>
+<ul>
+<li>Research Assistant</li>
+<li>Psychology and Biology majors, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Taylor is assisting with various research projects in the lab, including the evolution of body size in <i lang="la">Drosophila subquinaria</i>.  She plans to become a genetic counselor. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Ariane Wong</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Ariane is assisting with various research projects in the lab. She plans to go to medical school.  She previously worked on plant mating system evolution in Shu-Mei Chang's lab at UGA.</div>
+					<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Nick Friend</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Genetics major, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Nick is investigating the evolutionary genetics of <i lang="la">Drosophila</i>. He is broadly interested in evolutionary biology</div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Ethan Wright</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. 2016, University of Georgia</li>
+</ul>
+<p>
+
+Ethan earned his B.S. in Genetics, during which he spent two years doing research in Jonathan Eggenschwiler's lab in UGA Genetics. Ethan plans to go to graduate school to study molecular genetics. 
+
+</p>
+</div>
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Amy Nguyen</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Genetics major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Amy is working on the evolution of body size in <i lang="la">Drosophila subquinaria</i>. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/nick_s.jpg" alt="" />
+<h3>Nick Sbravati</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Biology major, UGA Class of 2019</li>
+<li></li>
+</ul>
+<p>
+Nick is working on the evolution of mate choice in <i lang="la">Drosophila subquinaria</i>. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/katie.jpg" alt="" />
+<h3>Katie Pieper</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2012, University of Notre Dame </li>
+<li><a href="mailto:kpieper@uga.edu">kpieper@uga.edu</a></li>
+<li><a href=http://kathleenpieper.weebly.com/>Link to Katie's website</a></li>
+</ul>
+<p>
+Katie is interested in evolutionary genomics, and she is currently working on the molecular evolution of the driving X-chromosome in <i lang="la">D. neotestacea</i>. Katie holds a UGA Presidential Fellowship and is also a trainee on the NIH Genetics training grant. She has received a Rosemary Grant Award from the Society for the Study of Evolution, an honorable mention for an NSF GRFP, and the Bishop Award from the UGA Department of Genetics. Before coming to UGA, Katie worked on a variety of research projects, including the genomic basis of dormancy in soil microbes and the genetic basis of herbicide tolerance in morning glories.   
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Emily Clutter</h3>
+<ul>
+<li>Undergraduate research assistant</li>
+<li>Genetics major, UGA Class of 2017</li>
+<li></li>
+</ul>
+<p>
+Emily has worked on the mechanistic basis of body size polymorphism in <i lang="la">Drosophila subquinaria</i>. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/brooke.jpg" alt="" />
+<h3>Brooke White</h3>
+<ul>
+<li>Research Technician and Lab Manager</li>
+<li>B.S. 2007, Valdosta State University</li>
+<li><a href="mailto:bewhite@uga.edu">bewhite@uga.edu</a></li>
+</ul>
+<p>
+Brooke manages the day to day operations of the lab and is working on several projects, including the evolution of female mate preference in <i lang="la">D. subquinaria</i>. 
+</p>
+</div>
+
+							<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/deborah.jpg" alt="" />
+<h3>Deborah Postma</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Psychology major, UGA Class of 2017</li>
+<li></li>
+</ul>
+<p>
+Deborah recently spent a year studying in Hawaii where she learned how to be a beekeeper and fell in love with social insects.  She is broadly interested in ecology, evolution, and sustainability.  She spent this past summer at Georgia Tech as a participant in their <a href=http://bees.gatech.edu/beeinspired>BEE-Inspired Summer Program</a>. </div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/tom.jpg" alt="" />
+<h3>Tom Layman</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. 2016, University of Georgia</li>
+<li></li>
+</ul>
+<p>
+As an undergrad in our lab Tom investigated sperm competition and <i>sex-ratio </i> drive in <i lang="la">D. neotestacea</i> as well conspecific sperm precedence between <i lang="la">D. recens</i> and <i lang="la">D. subquinaria</i>. He recently received the Outstanding Thesis Award from the UGA Department of Genetics. Tom is broadly interested in evolutionary biology.  
+
+</div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Sydney Keane</h3>
+<ul>
+<li>REU in the Population Biology of Infectious Diseases </li>
+<li>Biology major, East Texas Baptist University, Class of 2016</li>
+<li></li>
+</ul>
+<p>
+Sydney is studying the dynamics of cytoplasmic incompatibility and <i lang="la">Wolbachia</i> in <i lang="la">Drosophila recens</i>. She is interested in Pharmaceutical Sciences. </div>
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Henrique da Rocha Moreira</h3>
+<ul>
+<li>Exchange student, Brazil's Scientific Mobility Program</li>
+<li>Biology major, Universidade Federal do Rio Grande, Class of 2017</li>
+<li></li>
+</ul>
+<p>
+Back home in Brazil Henrique worked on <i lang="la">Drosophila</i> phylogeography and speciation. As part of his exchange program to the United States he spending the summer in our lab where he is studying sperm competition in <i lang="la">Drosophila recens</i>. </div>
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/alison.jpg" alt="" />
+<h3>Alison Adams</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics and Math majors, UGA Class of 2018</li>
+<li></li>
+</ul>
+<p>
+Alison has earned her 'jack of all trades' merit badge, and is always ready to assist with projects in the lab. Alison will soon transition from wet lab work to applying her math skills to questions in evolutionary biology.  
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Laurie Brown</h3>
+<ul>
+<li>Teacher collaborator through the GIFT program</li>
+<li>World Language Academy, Hall County GA</li>
+<li></li>
+</ul>
+<p>
+
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/kathryn.jpg" alt="" />
+<h3>Kathryn Clark</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Biology and Economics majors, UGA Class of 2016</li>
+<li></li>
+</ul>
+<p>
+Kathryn is characterizing the courtship songs of <i lang="la">D. subquinaria</i> and <i lang="la">D. recens</i>. She previously worked on the evolution of <i lang="la">Wolbachia</i> infection in these species. Kathryn is interested in behavioral economics, and is concurrently working on her senior thesis in economics. 
+</div>	
+					<!--	END BIO		-->
+
+
+	
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Joan Han</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Cell Biology major, UGA Class of 2016</li>
+<li></li>
+</ul>
+<p>
+Joan is studying the evolution of body size in <i lang="la">D. subquinaria</i>. She investigated the molecular genetics of <i lang="la">D. melanogaster</i> in the UGA Cell Biology department for a year before joining our lab. </div>	
+					<!--	END BIO		-->
+										
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Jennifer Pagano</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology and Psychology majors, UGA Class of 2015</li>
+<li></li>
+</ul>
+<p>
+Jennifer has earned her 'jack of all trades' merit badge, and is always ready to jump in and assist with projects in the lab.  Before joining us she worked in a <i lang="la">Drosophila</i> neurobiology lab here at UGA.  
+</div>	
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Jasmine Gipson</h3>
+<ul>
+<li>REU in Infectious Diseases</li>
+<li>Biology major, Kennesaw State Class of 2016</li>
+<li></li>
+</ul>
+<p>
+Something here.
+</div>	
+					<!--	END BIO		-->
+
+
+		
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/julie.jpg" alt="" />
+<h3>Julie Howell</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Genetics and Biology majors, UGA Class of 2017</li>
+<li></li>
+</ul>
+<p>
+Julie is interested in the genetic basis of adaptation. She is studying the evolution of host preferences in <i lang="la">Drosophila</i>. 
+</div>	
+					<!--	END BIO		-->
+			
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/randall.jpg" alt="" />
+<h3>Randall English</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Genetics major, UGA Class of 2015</li>
+<li></li>
+</ul>
+<p>
+Randall is working on male mate choice in <i lang="la">D. subquinaria</i> and <i lang="la">D. recens</i>.
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/jojo.jpg" alt="" />
+<h3>JoJo </h3>
+<ul>
+<li>JoJo is a bearded dragon who oversees all of the activites in the lab.  </li>
+<li></li>
+</ul>
+<p>
+    <!--	add something here?	-->
+</div>	
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Alicia Schmidt</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology and Microbiology majors, UGA Class of 2015</li>
+<li></li>
+</ul>
+<p>
+Alicia has earned her 'jack of all trades' merit badge, and is always ready to jump in and assist with projects in the lab.    
+</div>	
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/jacob.jpg" alt="" />
+<h3>Jacob Phillips</h3>
+<ul>
+<li>Jacob is an intern through the Young Dawgs program at UGA. He is working on <i lang="la">Wolbachia</i> in <i lang="la">D. recens</i>.</li>
+<li></li>
+</ul>
+<p>
+    <!--	add something here?	-->
+</div>	
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/emily.jpg" alt="" />
+<h3>Emily Bewick</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>B.S. 2008, Vanderbilt University</li>
+<li><a href="mailto:peedener@uga.edu">peedener@uga.edu</a></li>
+</ul>
+<p>
+Emily is interested in the genetics of speciation, and is currently investigating the evolution of female mate discrimination in D. subquinaria. She received an NSF Dissertation Improvement Grant to support her research, and is the 2012 recipient of the Alton Fellowship in Genetics at UGA. Emily recently received a Dissertation Completion Award from the UGA graduate school. Emily came to UGA from Patrick Abbot's lab at Vanderbilt University, where she studied gall midge-fungus interactions. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/cheryl.jpg" alt="" />
+<h3>Cheryl Pinzone</h3>
+<ul>
+<li>Ph.D. Candidate, Genetics</li>
+<li>M.S. Central Florida University (2010)</li>
+<li><a href="mailto:cpinzone@uga.edu">cpinzone@uga.edu</a></li>
+</ul>
+<p>Cheryl is interested in sexual selection and life history evolution, and is currently investigating the evolutionary ecology of X-chromosome drive. Cheryl has received a Rosemary Grant award from the Society for the Study of Evolution, a Bishop Fellowship from UGA Genetics, and a university-wide Outstanding Teaching Award. She also received an NSF Dissertation Improvement Grant to support her research. Cheryl completed  her M.S. with Ken Fedorka at the University of Central Florida, where she studied geographic variation in post-mating immune response in <i>Drosophila</i>. 
+
+</p>
+</div>								
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/devon.jpg" alt="" />
+<h3>Devon Humphreys</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major, UGA Class of 2014</li>
+<li></li>
+</ul>
+<p>
+Devon is investigating the phylogenetic history and patterns of reproductive isolation in the quinaria group of <i>Drosophila</i>. Devon received a 2012 CURO Summer Research Fellowship to support his research, an award for the Best Undergraduate talk at the 2013 SEPEEG meeting, and he was selected to present his research at the 2013 Evolution meeting as a part of the Undergraduate Diversity program. In Fall 2014 Devon will be starting a PhD in evolutionary genetics at the University of Texas at Austin.
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/devon_g.jpg" alt="" />
+<h3>Devon Gaydos</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. University of Georgia (2013)</li>
+<li></li>
+</ul>
+<p>
+Devon is working on the evolution of mate discrimination in <i>Drosophila</i>. As an undergraduate, Devon also conducted research on the behavior of small mammals. In the fall, Devon will be starting a PhD in landscape ecology at North Carolina State University. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/maggie.jpg" alt="" />
+<h3>Maggie Raboin</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. University of Montana (2012)</li>
+<li></li>
+</ul>
+<p>
+Maggie is working on the evolution of mate discrimination in <i>Drosophila</i>.  Before joining our lab, she conducted research on the behavior of birds, spiders, and <i>Drosophila</i>. Maggie's passion is for jumping spiders. Maggie will be starting a PhD in animal behavior at UC Berkeley in Fall 2014 to continue her work on these fascinating critters. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/Emily_Fawcett.jpg" alt="" />
+<h3>Emily Fawcett</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major, UGA Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Emily is studying the evolutionary ecology of X-chromosome drive in <i>D. neotestacea</i>. She recently received a 2013 CURO Summer Fellowship to support her research. Emily plans to pursue a career in public health. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+					
+				
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/colleen.jpg" alt="" />
+<h3>Colleen Boyle</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, UGA Class of 2016</li>
+<li></li>
+</ul>
+<p>
+Colleen is assisting with various projects that are underway in the lab. She previously conducted research in Daniel Promislow's lab here at UGA. 
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/michael.jpg" alt="" />
+<h3>Michael Bray</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. University of Georgia (2011)</li>
+</ul>
+<p>
+Michael is working on the demographic history of several species in the quinaria group. As an undergraduate, he worked on the the genetics of pigmentation in the quinaria group of <i>Drosophila</i>. Michael was awarded a CURO Summer Research Fellowship and he graduated from UGA with Honors and Distinction in Research. Michael will pursue a PhD in Human Genetics at Vanderbilt starting this fall.</p>
+</div>								<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/jesse.jpg" alt="" />
+<h3>Jesse Lopez</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. University of Georgia (2012)</li>
+<li></li>
+</ul>
+<p>
+Jesse is working on the molecular evolution of the driving-X chromosome in  <i>D. neotestacea</i> as well as on the phylogentic history of the quinaria group. Jesse will be starting a PhD in Genetics at UC Davis in Fall 2013. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/perry.jpg" alt="" />
+<h3>Perry Leonard</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, UGA Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Perry assists with various projects in the lab, and is a fly food maker extraordinaire.  He plans to go to medical school. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Michael Stribos</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major, UGA Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Michael is studying the genetic basis of body size variation in <i>D. subquinaria</i>. He will be going to medical school after he graduates from UGA. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/rachel.jpg" alt="" />
+<h3>Rachel Webster</h3>
+<ul>
+<li>Research Technician</li>
+<li>B.S. University of Georgia (2011)</li>
+<li></li>
+</ul>
+<p>
+Rachel worked with us as an undergraduate at UGA, where she earned her 'jack of all trades' merit badge.  She is currently investigating Y-chromosome evolution in <i>Drosophila</i>.  This summer Rachel will start graduate school for genetic counseling at Emory University.  
+</p>
+</div>								<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/catherine.jpg" alt="" />
+<h3>Catherine Debban</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics major and Ecology minor, UGA Class of 2012</li>
+</ul>
+<p>
+Catherine is working on the evolutionary ecology of tolerance of mushroom toxins by <i>Drosophila</i>.  Before joining our lab, Catherine conducted biochemistry research at the UGA Complex Carbohydrate Research Center.  Catherine plans to go to grad school in evolutionary ecology. Catherine spent the Summer of 2011 at the Rocky Mountain Biological Station doing fieldwork as a participant in their REU program.    
+</p>
+</div>								<!--	END BIO		-->
+
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/erin.jpg" alt="" />
+<h3>Erin Giglio</h3>
+<ul>
+<li>CURO Honors Thesis</li>
+<li>Genetics and Psychology majors, UGA Class of 2012</li>
+<li></li>
+</ul>
+<p>
+Erin is interested in the genetics of behavior, and is characterizing the courtship behavior of <i>D. subquinaria</i>  and <i>D. recens</i>.  She previously conducted research in the UGA Psychology Department, where she studied animal cognition. Erin receieved a CURO Summer Fellowship to support her research. Erin will start graduate school at UT Austin in behavior genetics this fall. 
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/meghan.jpg" alt="" />
+<h3>Meghan Murphy</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology and Psychology majors, UGA Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Meghan recently joined the lab, and is learning the ropes by assisting with various projects that are underway. She previously worked in a biomedical engineering lab at GA Tech, where she studied the delivery of chemotheraputic drugs.  Meghan plans to go to medical school. 
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/jesse.jpg" alt="" />
+<h3>Jesse Lopez</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2012</li>
+<li></li>
+</ul>
+<p>
+Jesse is currently investigating the population demography of several species of  <i>Drosophila</i>.  He plans to go to graduate school to pursue a career in biomedical research.  
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/rachel.jpg" alt="" />
+<h3>Rachel Webster</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Psychology major and Biology Minor, UGA Class of 2011 (fall)</li>
+<li></li>
+</ul>
+<p>
+Rachel has earned her 'jack of all trades' merit badge, and is always ready to jump in and assist with projects in the lab.  Rachel plans to pursue a career in genetic counseling.  
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/ellie.jpg" alt="" />
+<h3>Eleanor Sharp</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Genetics major, UGA Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Ellie assists with various projects in the lab, and is a fly food maker extraordinaire.  Ellie plans to go to medical school. 
+</p>
+</div>								<!--	END BIO		-->
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/marta.jpg" alt="" />
+<h3>Marta Gaertig</h3>
+<ul>
+<li>Research assistant</li>
+<li>Biology major, UGA Class of 2011</li>
+</ul>
+<p>
+Marta assists with various projects in the lab, and is a fly food maker extraordinaire.  She previously conducted research on <i>Drosophila</i> neurogenetics in the UGA Department of Cellular Biology.  Marta plans to go to medical school.   
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/daniel.jpg" alt="" />
+<h3>Daniel Piqué</h3>
+<ul>
+<li>Undergraduate researcher and LSAMP Research Scholar</li>
+<li>Genetics major, UGA Class of 2012</li>
+<li><a href="mailto:dpique1@uga.edu">dpique1@uga.edu</a></li>
+</ul>
+<p>
+Daniel is interested in evolution and development, and is characterizing spermatogenesis in <i>Drosophila</i> males that carry a driving-X chromosome.  Daniel is spending the summer of 2010 in New York City as a participant in a pre-MD/PhD summer research program at Sloan-Kettering.  He is co-captain of UGA's club tennis team and is an officer in the Minority Premedical Student Association.   
+</p>
+</div>								<!--	END BIO		-->
+
+
+<!--
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/deanna.jpg" alt="" />
+<h3>Deanna Smith</h3>
+<ul>
+<li>Undergraduate research assistant</li>
+<li>Psychology major, UGA Class of 2011</li>
+<li></li>
+</ul>
+<p>
+Deanna assists with various projects in the lab, and is a fly food maker extraordinaire.   Deanna was a founding member of the Dyer Lab, as she joined our group way back in 2007 when she was a freshman!  
+</p>
+</div>								<!--	END BIO		-->
+-->
+
+<!--
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Danielle Kelly</h3>
+<ul>
+<li>Visiting Student</li>
+<li>Apalachee High School, Class of 2012</li>
+<li></li>
+</ul>
+<p>
+Danielle is spending the summer in our lab as a participant in the UGA Young Dawgs program.  
+
+</p>
+</div>			<!--	END BIO		-->
+-->
+
+<!--
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Tawanda Womack</h3>
+<ul>
+<li>Visiting Student</li>
+<li>Biology major, Bowie State University Class of 2013</li>
+<li></li>
+</ul>
+<p>
+Tawanda is spending the summer in our lab as a participant in the REU program in Genomics and Computational Biology that is hosted by the UGA Genetics Department.  
+
+</p>
+</div>								<!--	END BIO		-->
+
+-->
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Agy Gaertig</h3>
+<ul>
+<li>Research Assistant</li>
+<li>Biology major, Georgia Tech Class of 2014</li>
+<li></li>
+</ul>
+<p>
+Agy is spending the summer working with us.  She plans to go to medical school.   
+</p>
+</div>								<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Akshey Walia</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Biology and Philosophy majors, UGA Class of 2014</li>
+<li></li>
+</ul>
+<p>
+Akshey is broadly interested in animal behavior, and is studying courtship behavior in <i>D. subquinaria</i>. He plans to pursue a career in research.  
+
+</p>
+</div>	
+					<!--	END BIO		-->
+
+
+<div class="bio">					<!--	BEGIN BIO	-->
+<img src="photos/bios/shroom.jpg" alt="" />
+<h3>Anquilla Deleveaux</h3>
+<ul>
+<li>CURO Honors Research</li>
+<li>Genetics major, UGA Class of 2015</li>
+<li></li>
+</ul>
+<p>
+Anquilla is working on the evolutionary genetics of X-chromosome drive in <i>D. neotestacea</i>. 
+</p>
+</div>	
+					<!--	END BIO		-->
