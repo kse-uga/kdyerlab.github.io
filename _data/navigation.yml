@@ -12,10 +12,10 @@
 
 - text: More
   menu:
-    - text: Teaching
-      href: /teaching.html
     - text: Photos
       href: /photos.html
+    - text: Teaching
+      href: /teaching.html
     - text: News
       href: /news.html
     - text: Join Us
