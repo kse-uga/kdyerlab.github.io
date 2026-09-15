@@ -12,9 +12,9 @@ plugins:
   - jekyll-sitemap
 
 colors:
-  links: "#663300"
-  banner: "#cc3300"
-  footer: "#333300"
+  links: "##cccc3a"
+  banner: "##333300"
+  footer: "#cc3401"
 
 font_serif: false
 rounded_corners: false
