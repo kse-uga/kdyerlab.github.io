@@ -14,7 +14,7 @@ plugins:
 colors:
   links: "##cccc3a"
   banner: "##333300"
-  footer: "#cc3401"
+  footer: "##cc3401"
 
 font_serif: false
 rounded_corners: false
