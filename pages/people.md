@@ -7,7 +7,9 @@ permalink: /people.html
 
 ## Principal Investigator
 
+
 ![Kelly Dyer]({{ '/assets/bios/kelly_2023.jpg' | relative_url }})
+
 
 ### Kelly Dyer
 
@@ -17,7 +19,10 @@ permalink: /people.html
 
 Kelly is broadly interested in evolutionary genetics and molecular evolution. She earned her B.S. in Evolution and Ecology from UC Davis, M.S. from the University of Arizona, and Ph.D. from the University of Rochester. She spent three years at the University of Edinburgh in Scotland as a Royal Society USA Research Fellow before founding the Dyer Lab at UGA in November of 2007. While at UGA, Kelly has received a CAREER award from the National Science Foundation as well as a New Scholar in Aging Award from the Ellison Medical Foundation. Kelly is a member of the UGA Teaching Academy, and in 2017 received the Richard B. Russell Award for Excellence in Undergraduate Teaching, which is UGA's highest early career teaching award. Kelly is currently the Director of the [Integrated Life Sciences](https://ils.uga.edu) graduate program and co-Director of the [NIH T32 Genetics Training Grant](https://genetics.uga.edu/nih-training-grant).
 
+
+
 ## Research Staff
+
 
 ![]({{ '/assets/bios/shroom.jpg' | relative_url }})
 
@@ -26,7 +31,10 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 - Research Technician
 - Genetics major, UGA Class of 2024
 
+
+
 ## Graduate Students
+
 
 ![]({{ '/assets/bios/cameron.jpg' | relative_url }})
 
@@ -38,7 +46,10 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 
 Cameron is interested in evolutionary biology, and she is studying  *Drosophila - Wolbachia* interactions.
 
+
+
 ## Undergraduate Students
+
 
 ![]({{ '/assets/bios/shroom.jpg' | relative_url }})
 
@@ -46,11 +57,15 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 - Genetics major, UGA Class of 2025
 
+
+
 ![]({{ '/assets/bios/shroom.jpg' | relative_url }})
 
 ### Kaitlyn Eichele
 
 - Genetics major, UGA Class of 2026
+
+
 
 ![]({{ '/assets/bios/halli.jpg' | relative_url }})
 
@@ -58,17 +73,23 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 - Genetics major, UGA Class of 2026
 
+
+
 ![]({{ '/assets/bios/shroom.jpg' | relative_url }})
 
 ### Julian Porter
 
 - Entomology major, UGA Class of 2026
 
+
+
 ![]({{ '/assets/bios/shroom.jpg' | relative_url }})
 
 ### William Steinmetz
 
 - Biology major, UGA Class of 2025
+
+
 
 ## Lab Alumni (Graduate students)
 
