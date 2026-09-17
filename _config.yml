@@ -19,3 +19,6 @@ colors:
 font_serif: false
 rounded_corners: false
 posts_on_home: 0
+
+logo: /assets/uga-frankling.png           # Logo in navbar, will be displayed with 30px height
+logo_and_title: true                    # If logo is enabled, show title as well (default)
