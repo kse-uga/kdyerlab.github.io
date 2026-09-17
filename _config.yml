@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
 
 colors:
-  links: "#bfc123"
+  links: "#a8a936"
   banner: "#cc3401"
   footer: "#333300"
 
