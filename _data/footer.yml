@@ -5,14 +5,9 @@
 columns:
   - description:
     links:
-    - text: Kelly Dyer Google Scholar 
-      href: https://scholar.google.com/citations?user=51nSyqwAAAAJ&hl=en
-      new_window: true
     - text: UGA Genetics Department
       href: https://www.genetics.uga.edu/
       new_window: true
-  - description:
-    links:
     - text: UGA Integrated Life Sciences Program
       href: https://ils.uga.edu/
       new_window: true
