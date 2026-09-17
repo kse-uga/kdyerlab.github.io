@@ -5,19 +5,20 @@
 columns:
   - description:
     links:
-    - text: Kelly's Google Scholar 
+    - text: Google Scholar 
       href: https://scholar.google.com/citations?user=51nSyqwAAAAJ&hl=en
-      new_window: true
-    - text: University of Georgia Home
-      href: https://www.uga.edu/
       new_window: true
     - text: UGA Genetics Department
       href: https://www.genetics.uga.edu/
       new_window: true
+  - description:
+    links:
+    - text: University of Georgia Home
+      href: https://www.uga.edu/
+      new_window: true
     - text: UGA Integrated Life Sciences Program
-    - href: https://ils.uga.edu/
-    - new_window: true
-
+      href: https://ils.uga.edu/
+      new_window: true
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
