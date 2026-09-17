@@ -16,6 +16,9 @@ colors:
   banner: "#cc3401"
   footer: "#333300"
 
+social: 
+  googlescholar: https://scholar.google.com/citations?user=51nSyqwAAAAJ&hl=en 
+
 font_serif: false
 rounded_corners: false
 posts_on_home: 0
