@@ -5,12 +5,15 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: University of Georgia Home
+      href: https://www.uga.edu/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: UGA Genetics Department
+      href: https://www.genetics.uga.edu/
       new_window: true
+    - text: UGA Integrated Life Sciences Program
+    - href: https://ils.uga.edu/
+    - new_window: true 
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is made with ❤ for open source.
