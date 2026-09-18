@@ -5,6 +5,8 @@ background: /assets/banners/publications.jpg
 permalink: /publications.html
 ---
 
+For Kelly Dyer's complete and most up-to-date publication record, visit her [Google Scholar profile](https://scholar.google.com/citations?user=51nSyqwAAAAJ&hl=en).
+
 - Erlenbach, T., R. M. R. Gawryluk, S. J. Perlman, R. L. Unckless, and K. A. Dyer. Comparative genomics of the Testacea group of *Drosophila* reveals introgression and variation in chromosome size and structure. In revision.
 
 - Duitsman, A., Bomar, J. Powell, and K. A. Dyer. Postmating prezygotic isolation at two levels of divergence in *Drosophila recens* and *D. subquinaria*. Journal of Evolutionary Biology, online early. DOI: [doi.org/10.1093/jeb/voae145](https://doi.org/10.1093/jeb/voae145).
