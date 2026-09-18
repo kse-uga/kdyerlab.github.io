@@ -8,7 +8,7 @@ permalink: /people.html
 ## Principal Investigator
 
 
-![Kelly Dyer]({{ '/assets/bios/kelly_2023.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/kelly_2023.jpg' | relative_url }}" alt="Kelly Dyer" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 
 ### Kelly Dyer
@@ -24,7 +24,7 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 ## Research Staff
 
 
-![]({{ '/assets/bios/shroom.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Claire Cheng
 
@@ -36,7 +36,7 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 ## Graduate Students
 
 
-![]({{ '/assets/bios/cameron.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/cameron.jpg' | relative_url }}" alt="Cameron Seitz" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Cameron Seitz
 
@@ -51,7 +51,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 ## Undergraduate Students
 
 
-![]({{ '/assets/bios/shroom.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Kiera Bass
 
@@ -59,7 +59,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 
 
-![]({{ '/assets/bios/shroom.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Kaitlyn Eichele
 
@@ -67,7 +67,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 
 
-![]({{ '/assets/bios/halli.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/halli.jpg' | relative_url }}" alt="Hallianek Escorcia" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Hallianek Escorcia
 
@@ -75,7 +75,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 
 
-![]({{ '/assets/bios/shroom.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Julian Porter
 
@@ -83,7 +83,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 
 
-![]({{ '/assets/bios/shroom.jpg' | relative_url }}){: .people-photo }
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### William Steinmetz
 
