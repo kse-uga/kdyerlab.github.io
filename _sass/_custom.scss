@@ -107,3 +107,12 @@ figure {
     margin-top: 1.5rem;
   }
 }
+
+
+// PEOPLE PAGE
+// Keep profile photos aligned to the left edge of the content column.
+.people-photo {
+  display: block;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
