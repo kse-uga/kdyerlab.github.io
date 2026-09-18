@@ -21,20 +21,7 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 
 
 
-## Research Staff
-
-
-<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
-
-### Claire Cheng
-
-- Research Technician
-- Genetics major, UGA Class of 2024
-
-
-
 ## Graduate Students
-
 
 <img src="{{ '/assets/bios/cameron.jpg' | relative_url }}" alt="Cameron Seitz" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
@@ -47,47 +34,28 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 Cameron is interested in evolutionary biology, and she is studying  *Drosophila - Wolbachia* interactions.
 
 
-
-## Undergraduate Students
-
-
-<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
-
-### Kiera Bass
-
-- Genetics major, UGA Class of 2025
-
-
-
-<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
-
-### Kaitlyn Eichele
-
-- Genetics major, UGA Class of 2026
-
-
-
-<img src="{{ '/assets/bios/halli.jpg' | relative_url }}" alt="Hallianek Escorcia" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
-
-### Hallianek Escorcia
-
-- Genetics major, UGA Class of 2026
-
-
+## Research Staff
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 ### Julian Porter
 
-- Entomology major, UGA Class of 2026
-
-
+- Lord of the Flies (Lab Manager)
+- Entomology major, UGA Class of 2025
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-### William Steinmetz
+### Kaitlyn Eichele
 
-- Biology major, UGA Class of 2025
+- Research Technician
+- Genetics major, UGA Class of 2026
+
+
+## Undergraduate Students
+
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
+
+### Jaiden Larson
 
 
 
