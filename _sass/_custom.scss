@@ -116,3 +116,10 @@ figure {
   margin-left: 0 !important;
   margin-right: auto !important;
 }
+
+
+// HEADING ANCHORS
+// Petridish adds clickable AnchorJS links to section headings; hide them site-wide.
+.anchorjs-link {
+  display: none !important;
+}
