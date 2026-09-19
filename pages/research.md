@@ -50,5 +50,4 @@ Components of this work are in collaboration with [Rob Unckless](https://unckles
 Panel A shows that cytoplasmic incompatibility (CI) results from the mating of an infected male (in red) and uninfected female (in black).
 [Figure from Jiggins,  *PLoS Biology*. 2017.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002780)
 
-- © Kelly A. Dyer
 - Skunk Cabbage and D. melanogaster photos from Biopix.
