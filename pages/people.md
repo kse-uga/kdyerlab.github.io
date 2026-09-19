@@ -11,7 +11,7 @@ permalink: /people.html
 <img src="{{ '/assets/bios/kelly_2023.jpg' | relative_url }}" alt="Kelly Dyer" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 
-### Kelly Dyer
+#### Kelly Dyer
 
 - Professor of Genetics
 - Ph.D. 2004, University of Rochester
@@ -21,11 +21,11 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 
 
 
-**## Graduate Students**
+## Graduate Students
 
 <img src="{{ '/assets/bios/cameron.jpg' | relative_url }}" alt="Cameron Seitz" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-### Cameron Seitz
+#### Cameron Seitz
 
 - Ph.D. student, Genetics
 - B.S. 2021 Louisiana State University
@@ -38,24 +38,24 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-### Julian Porter
+#### Julian Porter
 
 - Lord of the Flies (Lab Manager)
 - Entomology major, UGA Class of 2025
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-### Kaitlyn Eichele
+#### Kaitlyn Eichele
 
 - Research Technician
 - Genetics major, UGA Class of 2026
 
 
-## Undergraduate Students
+### Undergraduate Students
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-### Jaiden Larson
+#### Jaiden Larson
 
 
 
