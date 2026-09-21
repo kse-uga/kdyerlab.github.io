@@ -48,7 +48,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 
 
-### Undergraduate Students
+## Undergraduate Students
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
