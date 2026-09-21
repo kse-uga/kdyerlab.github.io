@@ -17,7 +17,7 @@ permalink: /people.html
 - Ph.D. 2004, University of Rochester
 - [kdyer@uga.edu](mailto:kdyer@uga.edu)
 
-Kelly is broadly interested in evolutionary genetics and molecular evolution. She earned her B.S. in Evolution and Ecology from UC Davis, M.S. from the University of Arizona, and Ph.D. from the University of Rochester. She spent three years at the University of Edinburgh in Scotland as a Royal Society USA Research Fellow before founding the Dyer Lab at UGA in November of 2007. While at UGA, Kelly has received a CAREER award from the National Science Foundation as well as a New Scholar in Aging Award from the Ellison Medical Foundation. Kelly is a member of the UGA Teaching Academy, and in 2017 received the Richard B. Russell Award for Excellence in Undergraduate Teaching, which is UGA's highest early career teaching award. Kelly is currently the Director of the [Integrated Life Sciences](https://ils.uga.edu) graduate program and co-Director of the [NIH T32 Genetics Training Grant](https://genetics.uga.edu/nih-training-grant).
+Kelly is broadly interested in evolutionary genetics and molecular evolution. She earned her B.S. in Evolution and Ecology from UC Davis, M.S. from the University of Arizona, and Ph.D. from the University of Rochester. She spent three years at the University of Edinburgh in Scotland as a Royal Society USA Research Fellow before founding the Dyer Lab at UGA in November of 2007. While at UGA, Kelly has received a CAREER award from the National Science Foundation as well as a New Scholar in Aging Award from the Ellison Medical Foundation. Kelly is a member of the UGA Teaching Academy, and in 2017 received the Richard B. Russell Award for Excellence in Undergraduate Teaching, which is UGA's highest early career teaching award. Kelly is currently the Department Head for the [Department of Genetics](https://www.genetics.uga.edu/) and co-Director of the [NIH T32 Genetics Training Grant](https://genetics.uga.edu/nih-training-grant). She was also the Director of the [Integrated Life Sciences](https://ils.uga.edu) graduate program from 2023 - 2026
 
 
 
@@ -45,18 +45,29 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-#### Kaitlyn Eichele
-
-- Research Technician
-- Genetics major, UGA Class of 2026
-
 
 ### Undergraduate Students
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
-#### Jaiden Larson
+#### Kaitlyn Eichele
 
+- Research Technician
+- Genetics major, UGA Class of 2026
+
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
+  
+#### Meghan Bartik
+- Research Assistant
+- Biology major, UGA Class of 2026
+
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
+
+#### Jaiden Larson
+- Research Assistant
+- Genetics major, UGA Class of 2028
+
+<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 
 ## Lab Alumni (Graduate students)
