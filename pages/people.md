@@ -34,6 +34,7 @@ Kelly is broadly interested in evolutionary genetics and molecular evolution. Sh
 Cameron is interested in evolutionary biology, and she is studying  *Drosophila - Wolbachia* interactions.
 
 
+
 ## Research Staff
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
@@ -44,6 +45,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 - Entomology major, UGA Class of 2025
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
+
 
 
 ### Undergraduate Students
@@ -68,6 +70,7 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 - Genetics major, UGA Class of 2028
 
 <img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
+
 
 
 ## Lab Alumni (Graduate students)
