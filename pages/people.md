@@ -75,10 +75,10 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 
 ## Lab Alumni (Graduate students)
 
-- Theresa Erlenbach, Ph.D. 2024 in Genetics (Currently a Postdoctoral Fellow at Greenwood Genetics Center)
+- Theresa Erlenbach, Ph.D. 2024 in Genetics (Currently a Variant Scientist at GeneDx)
 - Andrew Duitsman, Ph.D. 2023 in Genetics (Currently an Assistant Professor of Biology at Piedmont University)
 - Paul Ginsberg, Ph.D. 2022 in Genetics (Currently a Lecturer at Ottawa University)
-- Nick Arthur, Ph.D. 2018 in Genetics (Currently a Training and Development Scientist at 10X Genomics)
+- Nick Arthur, Ph.D. 2018 in Genetics (Currently a Field Application Scientists at ChemoMetec)
 - Katie Pieper, Ph.D. 2017 in Genetics (Currently a Scientific Communication Manager at AlphaGroup Medical Communications)
 - Emily Bewick, Ph.D. 2014 in Genetics (Currently a Medical Writer at Ashfield MedComms)
 - Cheryl Pinzone, Ph.D. 2014 in Genetics (Currently a Lecturer at the University of Colorado)
