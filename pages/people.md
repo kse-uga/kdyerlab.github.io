@@ -44,8 +44,6 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 - Lord of the Flies (Lab Manager)
 - Entomology major, UGA Class of 2025
 
-<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
-
 
 
 ## Undergraduate Students
@@ -68,8 +66,6 @@ Cameron is interested in evolutionary biology, and she is studying  *Drosophila 
 #### Jaiden Larson
 - Research Assistant
 - Genetics major, UGA Class of 2028
-
-<img src="{{ '/assets/bios/shroom.jpg' | relative_url }}" alt="" class="people-photo" style="display:block; margin-left:0 !important; margin-right:auto !important;">
 
 
 
